@@ -36,7 +36,7 @@ INSERT INTO `enseignants` (`num_ens`, `nom_ens`, `grade`, `anciennete`) VALUES
 (12, 'Aubois, Jean', 'MCF', 5),
 (13, 'Boyer, Julie', 'ASS', 2),
 (14, 'Vincent, Paul', 'PR ', 4),
-(15, 'Simon, Etienne', 'ASS', 5);
+(15, 'Simon, Etienne', 'ASS', 5),
 (16, 'Rieux, Frank', 'MCF', 2);
 
 -- --------------------------------------------------------
